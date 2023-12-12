@@ -20,7 +20,7 @@ BallonPopperJS est un petit jeu simple et amusant créé en JavaScript où le jo
 
 ## Démo en ligne
 
-Une démo en ligne du jeu est disponible [ici](lien_vers_la_demo).
+Une démo en ligne du jeu est disponible [ici](https://ballonpopperjs.netlify.app/). 🌐
 
 ## Contribution
 
